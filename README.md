@@ -1,9 +1,11 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+ 
 ### REG NO : 212222110007
 ### NAME: DEVADARSHAN A S
 
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
+
 ## PROBLEM STATEMENT :
 This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the main account's root credentials.
 
@@ -24,7 +26,7 @@ This experiment involves creating an AWS account, configuring security settings 
  Review and Create IAM User</br>
 
 
-## OUTPUT
+## OUTPUT:
 
 ### ROOT USER:
 
@@ -38,7 +40,7 @@ This experiment involves creating an AWS account, configuring security settings 
 
  ### IAM USER:
 
-![Screenshot 2024-11-19 175134](https://github.com/user-attachments/assets/6630fee2-6608-4422-8a42-1842a326fe17)
+![Screenshot 2024-11-19 175449](https://github.com/user-attachments/assets/3bccb1ab-d472-4c4c-b216-db962891c1f1)
 
 
 
